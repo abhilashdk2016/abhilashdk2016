@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash D K</h1>
 <h3 align="center">A passionate FullStack developer and Security Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Tic Tac Toe Game**
+- 🔭 I’m currently working on **Kubernetes Security & Golang** 
 
 - 🌱 I’m currently learning **Golang, Kubernetes, Next.JS, GraphQL, Security**
 
