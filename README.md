@@ -24,6 +24,14 @@ Results-driven **Senior Software Engineer** with deep expertise in designing, bu
 
 ---
 
+## 🏅 Certifications
+
+![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Certified Kubernetes Application Developer (CKAD)** — *The Linux Foundation*
+
+---
+
 ## 🛠️ Technical Expertise
 
 ### Languages
