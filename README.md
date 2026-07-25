@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Senior Software Engineer** with deep expertise in designing, building, and scaling high-performance web applications and distributed systems. Passionate about writing clean, maintainable code and delivering robust solutions that drive business value.
+Results-driven **Senior Software Engineer** with deep expertise in designing, building, and scaling high-performance web applications and distributed systems. Passionate about writing clean, maintainable code and delivering business impact through modern engineering practices.
 
 - 🏗️ Proficient in architecting **end-to-end full-stack solutions** across diverse technology stacks
 - ☁️ Experienced in **cloud-native development** and container orchestration with **Kubernetes**
@@ -45,10 +45,12 @@ Results-driven **Senior Software Engineer** with deep expertise in designing, bu
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### DevOps & Cloud
